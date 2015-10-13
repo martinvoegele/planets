@@ -1,2 +1,2 @@
 # planets
-Planet files
+Test repository for the CECAM Software Carpentry Workshop
